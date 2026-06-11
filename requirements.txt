@@ -1,6 +1,6 @@
-pandas -- abrir CSV, ver columnas, filtrar filas, agrupar datos, contar cosas, guardar nuevos CSV
-numpy -- para que funcione panda
-BEAUTIFULSOUP4 -- para limpiar html
-streamlit -- para hacer la app web
-pypdf -- para extraer texto de PDFs
-sentence-transformers torch -- para usar modelos de lenguaje preentrenados y generar embeddings
+streamlit
+joblib
+scikit-learn
+pandas
+pypdf
+beautifulsoup4
